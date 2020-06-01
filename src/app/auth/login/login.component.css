@@ -1,0 +1,22 @@
+mat-form-field {
+  width: 100%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.LoginMain{
+  max-width: 400px;
+  justify-content:center;
+  align-items:center;
+  margin: 0 auto;
+  width: 40%;
+}
+
+/* .main-div{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */

@@ -1,0 +1,15 @@
+mat-form-field {
+  width: 100%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.signUpMain{
+  max-width: 400px;
+  justify-content:center;
+  align-items:center;
+  margin: 0 auto;
+  width: 40%;
+}
