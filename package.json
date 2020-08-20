@@ -24,7 +24,7 @@
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
     "angular-ai-chat-bot": "^1.1.1",
-    "bcrypt": "^2.0.1",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "core-js": "^3.1.2",
     "express": "^4.16.3",
